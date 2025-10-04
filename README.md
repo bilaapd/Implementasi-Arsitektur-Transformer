@@ -1,4 +1,4 @@
-# 📘 Transformer From Scratch (NumPy Implementation)
+# 📘 Transformer From Scratch Using Numpy
 
 ## 📌 Deskripsi
 Project ini adalah implementasi **decoder-only Transformer (GPT-style)** dari nol menggunakan **NumPy**.  
