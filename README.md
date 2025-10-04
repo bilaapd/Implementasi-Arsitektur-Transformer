@@ -42,7 +42,7 @@ pip install numpy
 ### 3. Jalankan Forward Pass Test
 Gunakan perintah berikut untuk menjalankan tes sederhana:
 ```bash
-python test_forward.py
+python testforward.py
 ```
 ### 4. Output yang Diharapkan
 Jika berhasil, output akan seperti berikut:
