@@ -30,8 +30,8 @@ Fokus utama adalah **forward pass**:
 
 ### 1. Clone Repository
 ```bash
-git clone https://github.com/username/TransformerFromScratch.git
-cd TransformerFromScratch
+git clone [https://github.com/bilaapd//Implementasi-Arsitektur-Transformer]
+cd /Implementasi-Arsitektur-Transformer
 ```
 ### 2. Install Dependencies
 Pastikan sudah ada Python 3.9+.
